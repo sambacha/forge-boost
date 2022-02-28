@@ -1,0 +1,13 @@
+.DS_Store
+node_modules
+out
+output/
+__tmp__/
+cache
+artifacts
+.cache/
+coverage/
+*.tar.gz
+*.zip
+*.log
+

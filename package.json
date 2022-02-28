@@ -1,0 +1,24 @@
+{
+  "name": "@openmev/test-mixin",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambacha/forge-boost.git"
+  },
+  "keywords": [],
+  "author": "SEE CONTRIBUTORS",
+  "license": "GPL-3.0-Only",
+  "bugs": {
+    "url": "https://github.com/sambacha/forge-boost/issues"
+  },
+  "homepage": "https://github.com/sambacha/forge-boost#readme",
+  "dependencies": {
+    "@uniswap/lib": "^4.0.1-alpha",
+    "@uniswap/v3-core": "^1.0.1",
+    "@uniswap/v3-periphery": "^1.4.0"
+  }
+}
